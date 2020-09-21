@@ -1,4 +1,4 @@
-### Hi there 👋
+![gif](https://media.giphy.com/media/26uf5EfMqWNWCLbc4/source.gif)
 
 <!--
 **jackton1/jackton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
