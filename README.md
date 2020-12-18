@@ -1,16 +1,17 @@
 ![gif](https://media.giphy.com/media/26uf5EfMqWNWCLbc4/source.gif)
 
-<!--
-**jackton1/jackton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I'm Tonye, and welcome to my GitHub bio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :canada:  I'm based in Toronto, Canada.
+
+- ✈️ I love to travel.
+
+- ☕️ I drink tea, and especially hot chocolate.
+
+- 🔊 I love listening different kinds of music.
+
+- 🔭  Actively using: Python, asyncio, django, react, javascript, kubernetes, Vue, Golang, Istio, occasionally C/C++ etc...
+
+- 🌱 I’m currently learning: Scala, Rust
+
