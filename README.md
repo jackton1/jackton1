@@ -17,5 +17,5 @@
 
 
 ![jackton1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jackton1&show_icons=true)
-![jackton1 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackton1&layout=compact)
+![jackton1 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackton1&layout=compact&langs_count=10)
 
