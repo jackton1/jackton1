@@ -9,7 +9,7 @@
 
 - ☕️ &nbsp; I drink tea, and especially hot chocolate.
 
-- 🔊 &nbsp; I love listening different kinds of music.
+- 🔊 &nbsp; I love listening to different kinds of music.
 
 - 🔭  &nbsp; Actively using: C/C++, Python, Asyncio, Django, React, Javascript, Kubernetes, Docker, Postgres, Vue, Golang, Istio.
 
