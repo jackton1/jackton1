@@ -3,17 +3,17 @@
 
 👋 Hi, I'm Tonye, and welcome to my GitHub bio.
 
-- :canada:  I'm based in Toronto, Canada.
+- :canada: &nbsp; I'm based in Toronto, Canada.
 
-- ✈️ I love to travel.
+- ✈️ &nbsp; I love to travel.
 
-- ☕️ I drink tea, and especially hot chocolate.
+- ☕️ &nbsp; I drink tea, and especially hot chocolate.
 
-- 🔊 I love listening different kinds of music.
+- 🔊 &nbsp; I love listening different kinds of music.
 
-- 🔭  Actively using: C/C++, Python, Asyncio, Django, React, Javascript, Kubernetes, Docker, Postgres, Vue, Golang, Istio.
+- 🔭  &nbsp; Actively using: C/C++, Python, Asyncio, Django, React, Javascript, Kubernetes, Docker, Postgres, Vue, Golang, Istio.
 
-- 🌱 I’m currently learning: Scala, Rust, Elixir
+- 🌱  &nbsp; I’m currently learning: Scala, Rust, Elixir
 
 
 ![jackton1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jackton1&show_icons=true&count_private=true)
