@@ -11,7 +11,7 @@
 
 - 🔊 &nbsp; I love listening to different kinds of music.
 
-- 🔭  &nbsp; Actively using: C/C++, Python, Asyncio, Django, React, Javascript, Kubernetes, Docker, Postgres, Vue, Golang, Istio.
+- 🔭  &nbsp; Actively using: C/C++, Python, Asyncio, Django, React, Javascript, Kubernetes, Docker, Terraform, Postgres, Vue, Golang, Istio.
 
 - 🌱  &nbsp; I’m currently learning: Scala, Rust, Elixir
 
