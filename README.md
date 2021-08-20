@@ -13,7 +13,7 @@
 
 - 🔭  &nbsp; Actively using: C/C++, Python, Asyncio, Django, React, Javascript, Kubernetes, Docker, Terraform, Postgres, Vue, Golang, Istio.
 
-- 🌱  &nbsp; I’m currently learning: Scala, Rust, Elixir
+- 🌱  &nbsp; I’m currently learning: Rust, Scala, Elixir
 
 
 ![jackton1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jackton1&show_icons=true&count_private=true)
