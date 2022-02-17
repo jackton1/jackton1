@@ -1,6 +1,3 @@
-![gif](https://media.giphy.com/media/26uf5EfMqWNWCLbc4/source.gif)
-
-
 👋 &nbsp; Hi, I'm Tonye, and welcome to my GitHub bio.
 
 - :canada: &nbsp; I'm based in Toronto, Canada.
