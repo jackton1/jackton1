@@ -4,7 +4,7 @@
 
 - ✈️ &nbsp; I love to travel.
 
-- ☕️ &nbsp; I drink tea, and especially hot chocolate.
+- ☕️ &nbsp; I love drinking tea, and especially hot chocolate.
 
 - 🔊 &nbsp; I love listening to different kinds of music.
 
