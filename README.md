@@ -43,6 +43,6 @@
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white)
 
 
-### 🕵️‍ Some more stats on GitHub
+### 🕵️‍ GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackton1&theme=dark&bg_color=121212)](https://github.com/jackton1/github-readme-stats)
 ![jackton1 github stats](https://github-readme-stats.vercel.app/api?username=jackton1&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
