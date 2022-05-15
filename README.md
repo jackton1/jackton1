@@ -33,7 +33,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-- Monitoring: ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
+- Monitoring: ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat-square&logo=rancher&logoColor=white)
 
 - Other:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white)
