@@ -2,8 +2,16 @@ Hi! I'm **Tonye**, a software developer, working with different cloud products w
 
 <br>
 
-Since my GitHub journey began, I have made a total of **14328** commits, raised **289** issues, submitted **5119** pull requests, received **25** stars for my **13** personal projects, and contributed to **104** public repositories.
+Since my GitHub journey began, I've contributed to 104 public repositories
 
+
+Top 8 most used languages across your repositories:
+
+ Python  JavaScript  Astro  Makefile  TypeScript  HTML  MDX  Other 
+
+Top 4 most used languages across your repositories:
+
+ Python  JavaScript  Astro  Other 
 
 I'm actively maintaining packages for [tj-actions](https://github.com/jackton1)
 
