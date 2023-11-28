@@ -2,7 +2,15 @@ Hi! I'm **Tonye**, a software developer, working with different cloud products w
 
 <br>
 
-Since my GitHub journey began, I have made a total of **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars for my **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since my GitHub journey began, I've contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
+
+Top 8 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
+Top 4 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
 
 
 I'm actively maintaining packages for [tj-actions](https://github.com/jackton1)
