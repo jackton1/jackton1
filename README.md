@@ -6,6 +6,8 @@ I actively maintain open-source projects for:
 
 and many more organizations...
 
+Ever since joining Github over **7** years ago, I've contributed to over **104** public repositories.
+
 If you'll like to support my work, you can do so by clicking this link 👉 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jackton1)
 
 ## Stats
