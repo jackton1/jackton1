@@ -4,9 +4,11 @@ Hi! I'm **Tonye**, a software developer, working with different cloud products w
 
 Since my GitHub journey began, I've contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
 
+
 Top 8 most used languages across your repositories:
 
 {{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
 
 Top 4 most used languages across your repositories:
 
