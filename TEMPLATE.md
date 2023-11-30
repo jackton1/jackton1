@@ -1,4 +1,10 @@
-Hi! I'm **Tonye**, a skilled software developer with experience working with various programming languages and cloud products. I have a passion for innovation and enjoy tackling complex problems.
+# 💫 About Me:
+👋 &nbsp; Hi, I'm **Tonye**, and welcome to my GitHub bio.
+- :canada: &nbsp; I'm a software developer based in Alberta, Canada.
+- 🤓 &nbsp; I'm experienced with various programming languages and cloud products.
+- ✈️ &nbsp; I love to travel.
+- ☕️ &nbsp; I love drinking tea.
+- 🔊 &nbsp; I love listening to different kinds of music.
 
 I actively maintain open-source projects for:
 - [tj-actions](https://github.com/tj-actions)
