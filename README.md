@@ -12,7 +12,7 @@ I actively maintain open-source projects for:
 
 and many more organizations...
 
-Ever since joining Github over **7** years ago, I've contributed to over **104** public repositories and counting. 
+Ever since joining Github over **7** years ago, I've contributed to over **103** public repositories and counting. 
 
 I'm very passionate about improving the quality of products and services by pushing the envelope of innovation.
 
