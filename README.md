@@ -12,7 +12,7 @@ Author of several open-source projects for:
 
 and many more organizations...
 
-If you'll like to support my work, you can do so by clicking this link 👉 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jackton1). 
+If you'd like to support my work, you can do so by clicking this link 👉 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jackton1). Your support is highly appreciated.
 
 ## Stats
 
