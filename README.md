@@ -16,4 +16,4 @@ and many more organizations...
 
 ![Tonye's GitHub stats](https://github-readme-stats-five-phi-49.vercel.app/api?username=jackton1&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-![Top Langs](https://github-readme-stats-five-phi-49.vercel.app/api/top-langs/?username=jackton1&layout=donut&langs_count=20&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-five-phi-49.vercel.app/api/top-langs/?username=jackton1&layout=donut&hide=html&langs_count=12&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
