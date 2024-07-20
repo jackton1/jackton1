@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 &nbsp; Hi, I'm **Tonye**, and welcome to my GitHub bio.
-- :canada: &nbsp; I'm a software developer based in Alberta, Canada.
+- :canada: &nbsp; I'm a software developer based in Canada.
 - 🤓 &nbsp; I have extensive experience in multiple programming languages and cloud products. I am highly passionate about driving innovation and enhancing the quality of products and services.
 - ✈️ &nbsp; I love to travel.
 - ☕️ &nbsp; I love drinking tea.
